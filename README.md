@@ -10,7 +10,4 @@ I write short daily notes to:
 
 ---
 
-## ✍️ Format
-
-Each file is named by date and topic, for example:
 
